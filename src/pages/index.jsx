@@ -97,7 +97,7 @@ const Index = () => (
             // link="https://www.behance.net/gallery/38068151/Eagle"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            問題が起こらなければ、それは問題ではない
+            起こらなければ、問題ではない
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
