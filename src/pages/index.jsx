@@ -121,7 +121,7 @@ const Index = () => (
       {/* <Contact offset={4}> */}
       <Contact offset={3}>
         <Inner>
-          <Title>コンタクト</Title>
+          <Title>Contact</Title>
           <ContactText>
             東京都台東区...
             {/* Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
